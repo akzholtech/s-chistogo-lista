@@ -2,28 +2,12 @@
     box-sizing: border-box;
 }
 
-@font-face {
-    font-family: "Inter";
-    src: url("../fonts/interregular.ttf"), format('truetype'), 
-         url("../fonts/interregular.woff") format("woff"),
-         url("../fonts/interregular.woff2") format("woff2");
-    font-weight: 400;
-}
-
-@font-face {
-    font-family: "Inter";
-    src: url("../fonts/interbold.ttf"), format('truetype'), 
-         url("../fonts/interbold.woff") format("woff"),
-         url("../fonts/interbold.woff2") format("woff2");
-    font-weight: 500;
-}
-
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', 'EB Garamond', sans-serif;
     background: #1e1e1e;
 }
 
-.content-section{
+.content-section {
     width: 360px;
 }
 
@@ -90,7 +74,7 @@ header {
     width: 60%;
 }
 
-.methods_content{
+.methods_content {
     padding: 12px 20px;
 }
 
