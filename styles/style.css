@@ -3,7 +3,7 @@
 }
 
 body {
-    font-family: 'Inter', 'EB Garamond', sans-serif;
+    font-family: 'Inter';
     background: #1e1e1e;
 }
 
@@ -53,7 +53,7 @@ header {
 }
 
  .cover h1 {
-    font-family: serif;
+    font-family: 'EB Garamond';
     font-weight: 400;
     font-size: 72px;
 }
@@ -84,7 +84,7 @@ header {
 
 .reasons_title {
     display: block;
-    font-family: serif;
+    font-family: 'EB Garamond';
     font-weight: 400;
     padding: 0;
     padding-bottom: 32px;
@@ -117,7 +117,7 @@ header {
 
 .facts_title {
     display: block;
-    font-family: serif;
+    font-family: 'EB Garamond';
     font-weight: 400;
     padding: 0;
     padding-bottom: 32px;
@@ -158,7 +158,7 @@ header {
 }
 
 .card_title {
-    font-family: serif;
+    font-family: 'EB Garamond';
     font-weight: 400;
     font-size: 24px;
 }
